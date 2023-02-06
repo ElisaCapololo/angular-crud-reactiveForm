@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "This is a fresh apple.",
+      "date": "2023-02-04T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Computer",
+      "category": "Electronic",
+      "freshness": "Second Hand,",
+      "price": 12000,
+      "comment": "New brand",
+      "date": "2023-02-05T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 90,
+      "comment": "Fresh fruit",
+      "date": "2023-02-05T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Carrot",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 95,
+      "comment": "New sales",
+      "date": "2023-02-05T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "HP computers",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 12000,
+      "comment": "New Brand",
+      "date": "2023-02-01T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "iPhone12",
+      "category": "Electronic",
+      "freshness": "Second Hand,",
+      "price": 550,
+      "comment": "For sales",
+      "date": "2023-02-03T00:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
